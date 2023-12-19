@@ -506,7 +506,8 @@ h4 {
 }
 .projects-container .box {
   position: relative;
-  box-shadow: 3px 3px 3px rgba(12, 226, 198, 0.432);
+  box-shadow: 0 0 8px #457dfd;
+  border: 1px solid blue;
   overflow: hidden;
   border-radius: 8px;
 }
